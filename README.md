@@ -1,4 +1,4 @@
-# Pink ribbon charity website
+# QR Code website
 
 - Used the starter page from [bootstrap](https://github.com/startbootstrap/startbootstrap-landing-page).
 - Then modified `dist/index.html` for a themed site.
